@@ -1,0 +1,34 @@
+.square{
+    height:200px;
+    width:25%;
+    background-color: purple;
+    float:left;
+    margin:10px;
+}
+
+#container{
+    width:80%;
+    margin:0 auto;
+}
+
+body{
+    background-color: #252525;
+}
+
+h1{
+    color:white;
+}
+
+#result{
+    color:white;
+}
+
+#hard{
+    color:black;
+}
+
+
+#reset{
+    color:black;
+}
+
